@@ -1,4 +1,4 @@
-# Plasma MVP
+# Plasma MVP (Pages test)
 
 We're implementing [Minimum Viable Plasma](https://ethresear.ch/t/minimal-viable-plasma/426). This repository represents a work in progress and will undergo large-scale modifications as requirements change. 
 
